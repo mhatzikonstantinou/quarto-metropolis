@@ -45,5 +45,13 @@ Also have a look at the `xaringan` [wiki](https://github.com/yihui/xaringan/wiki
 
 The main R Markdown output format in this package is `moon_reader()`. See the R help page `?xaringan::moon_reader` for all possible configurations.
 
-
+Change title slide to:
 https://github.com/denis-cohen/mzes-xaringan-metropolis
+
+Notes how to do this:
+https://github.com/schochastics/quarto-sketchy-html
+https://github.com/mcanouil/awesome-quarto
+https://github.com/schochastics/quarto-blackboard-theme and https://github.com/schochastics/xaringan-themes
+https://github.com/beatrizmilz/quarto-rladies-theme
+https://github.com/cct-datascience/quarto-revealjs-uaz
+https://github.com/almeidasilvaf/quarto_theme
