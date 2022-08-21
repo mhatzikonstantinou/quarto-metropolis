@@ -44,3 +44,6 @@ Pull requests are also welcome.
 Also have a look at the `xaringan` [wiki](https://github.com/yihui/xaringan/wiki) and `remark` [wiki](https://github.com/gnab/remark/wiki) to know all features of this presentation tool.
 
 The main R Markdown output format in this package is `moon_reader()`. See the R help page `?xaringan::moon_reader` for all possible configurations.
+
+
+https://github.com/denis-cohen/mzes-xaringan-metropolis
